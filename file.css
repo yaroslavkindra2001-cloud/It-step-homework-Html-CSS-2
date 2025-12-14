@@ -1,0 +1,29 @@
+body {
+    font-family: Verdana, sans-serif;
+    font-size: 14px;
+    padding: 11px;
+    background-color: #ececec;
+    
+
+}
+
+.a {
+    background-color: rgba(252, 55, 55, 0.479);
+    display: inline-block;
+    padding: 6px 12px;
+}
+
+.b {
+    text-align: center;
+    font-size: 19px;
+}
+
+
+div {
+    text-align: center;
+    padding: 20px;
+}
+
+h2{
+    font-size: 15px;
+}
